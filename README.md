@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend (angular) and backend (nodejs) programing
 - 🌱 I’m currently learning Flusk
 - 💞️ I’m looking to collaborate on MEAN stack applications
-- 📫 How to reach me: aandric.nemanja@gmail.com
+- 📫 How to reach me: nemanja.andric.1994@outlook.com
 
 <!---
 nemanja94/nemanja94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
