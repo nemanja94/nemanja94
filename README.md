@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nemanja94
 - 👀 I’m interested in frontend (angular) and backend (nodejs) programing
-- 🌱 I’m currently learning Flusk
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on MEAN stack applications
 - 📫 How to reach me: nemanja.andric.1994@outlook.com
 
