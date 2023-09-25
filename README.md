@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nemanja94
-- 👀 I’m interested in frontend (angular) and backend (nodejs) programing
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on MEAN stack applications
+- 👀 I’m interested in frontend and backend programing
+- 🌱 I’m currently learning Next.js 13.5
+- 💞️ I’m looking to collaborate on MERN stack applications
 - 📫 How to reach me: nemanja.andric.1994@outlook.com
 
 <!---
